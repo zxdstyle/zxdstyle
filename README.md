@@ -7,3 +7,5 @@
 🇨🇳 China・🕹Web developer
 
 https://zxdstyle.cn
+
+![](https://komarev.com/ghpvc?username=zxdstyle&color=green)
