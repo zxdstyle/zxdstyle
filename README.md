@@ -1,4 +1,4 @@
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxdstyle&theme=radical&layout=compact&langs_count=8＆hide=stylus" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxdstyle&theme=radical&layout=compact&langs_count=8＆hide=stylus,css,Less" />
 
 ### Hello 👋
 
