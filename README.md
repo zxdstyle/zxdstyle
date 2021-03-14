@@ -1,6 +1,9 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxdstyle&theme=radical&layout=compact&langs_count=8&hide=stylus,css,Less,HTML" />
 
-### Hello 👋
+### Hi👋 I'm zxdstyle
+
+- A tech nerd.
+- Moderator of [learnku's laravel community](https://learnku.com/users/39723)
 
 > Every new day is another chance to change my life.
 
