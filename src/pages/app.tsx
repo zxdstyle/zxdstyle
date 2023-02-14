@@ -44,7 +44,7 @@ const App: React.FC<AppProps> = ({ children }) => {
             </Box>
         </Box>
 
-        <Box display="flex" zIndex={10} flexDirection="row" flexWrap="nowrap" h={16} w="full" mb={32}>
+        <Box display="flex" zIndex={10} flexDirection="row" flexWrap="nowrap" h={16} w="full" my={32}>
             <Box flexGrow={1} borderRight="2px solid #4A5568" h={14}></Box>
             <Box flexGrow={1}></Box>
         </Box>
@@ -65,7 +65,7 @@ const App: React.FC<AppProps> = ({ children }) => {
             </Box>
         </Box>
 
-        <Box as="footer" w="full">
+        <Box as="footer" w="full" pb={5}>
             <Box mt={8} borderTop="1px solid #2D3748" pt={8} display="flex" w="full" justifyContent="space-between" alignItems="center">
                 <Box mt={3}>© 2022 Felix Gerschau. All rights reserved.</Box>
 
